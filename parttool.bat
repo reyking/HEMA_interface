@@ -1,0 +1,1 @@
+C:\esp-idf\components\partition_table\parttool.py %*
